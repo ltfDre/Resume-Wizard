@@ -39,4 +39,4 @@ Contributions to the project are welcome! If you have any ideas for improvements
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact:
-For any inquiries or support regarding the application, please contact [ltfdre[at]gmail.com].
+For any inquiries or support regarding the application, please contact [ltfdre@gmail.com].
